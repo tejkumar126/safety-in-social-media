@@ -1,3 +1,3 @@
-# safety-security
+# safety
 
 Hello Tej here this is my research about safety in social media platforms
